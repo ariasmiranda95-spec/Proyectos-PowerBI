@@ -1,2 +1,2 @@
 # Proyectos-PowerBI
-Proyecto Dashboard Liga Alemania de Fútbol 2025 y 2026
+Proyectos realizados en el curso de Big Data
